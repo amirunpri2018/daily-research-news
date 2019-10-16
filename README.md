@@ -5,7 +5,7 @@
 ## 論文追加方法
 
 - 論文はissueとして登録します
-- タグは適宜つけます
+- テンプレートは[こちら](.github/ISSUE_TEMPLATE/article-summary.md)
 - 閲覧中のWebページから空のsummaryを生成するBookmarklet（デフォルトで`TBR`タグ付き）
 ```
 javascript:(function(){var a=window.prompt("Create an empty summary for this article?",document.title);a&&window.open("https://github.com/yoshum/PaperSummary/issues/new?assignees=&labels=TBR&template=article-summary.md&title="+encodeURIComponent(a.trim()))})();
