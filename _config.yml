@@ -16,14 +16,14 @@
 title: Paper summary by yoshum
 email: yoshum@users.noreply.github.com
 description: >- # this means to ignore newlines until "baseurl:"
-  機械学習，コンピュータービジョン関係の論文まとめ
+  機械学習，コンピュータービジョン，時々物理の論文まとめ
 baseurl: "/PaperSummary" # the subpath of your site, e.g. /blog
 url: "https://yoshum.github.io"
 # twitter_username: jekyllrb
 github_username:  yoshum
 
 # Build settings
-markdown: kramdown
+markdown: GFM
 theme: minima
 plugins:
   - jekyll-feed
