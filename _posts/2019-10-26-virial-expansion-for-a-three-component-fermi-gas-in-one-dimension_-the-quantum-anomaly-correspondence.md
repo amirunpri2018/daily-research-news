@@ -1,5 +1,5 @@
 ---
-title: Virial Expansion for a Three-Component Fermi Gas in One Dimension: The Quantum Anomaly Correspondence
+title: "Virial Expansion for a Three-Component Fermi Gas in One Dimension: The Quantum Anomaly Correspondence"
 tags: ["arxiv","few-body","physics"]
 ---
 
