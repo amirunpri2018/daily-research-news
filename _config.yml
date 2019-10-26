@@ -24,7 +24,7 @@ github_username:  yoshum
 
 # Build settings
 markdown: GFM
-theme: minimal
+theme: midnight
 plugins:
   - jekyll-feed
 
