@@ -4,7 +4,7 @@ on:
 
 jobs:
   deploy:
-    if: contains(github.event.issue.labels.*.name, "TBR") == false
+    if: contains(github.event.issue.labels.*.name, 'TBR') == false
     runs-on: ubuntu-latest
     steps:
       - name: checkout
