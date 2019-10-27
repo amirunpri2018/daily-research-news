@@ -1,6 +1,7 @@
 # PaperSummary
 
 最新論文のまとめを共有するためのリポジトリです．
+投稿済みのまとめは[こちら](https://yoshum.github.io/PaperSummary)で公開しています．
 
 ## 論文追加方法
 
