@@ -1,8 +1,8 @@
 ---
 layout: default
 title: "Preventing Adversarial Use of Datasets through Fair Core-Set Construction"
-tags: []
-date: 2019-10-27 18:27:45 +0000
+tags: ["NeurISP WS"]
+date: 2019-10-27 18:37:02 +0000
 ---
 
 # Preventing Adversarial Use of Datasets through Fair Core-Set Construction
