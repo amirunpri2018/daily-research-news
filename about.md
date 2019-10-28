@@ -4,15 +4,11 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+機械学習，コンピュータビジョン，物理等に関する最新論文を読んだ際のメモ書きです．
+主にarXiv論文で，厳選した論文というよりは，タイトルやアブストラクトを見てちょっと引っ掛かったものに一言コメントを付けている程度です．
+おすすめ論文の解説みたいなこともやりたいですが，それはどこか別の場所で．
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+[こちら](https://github.com/yoshum/PaperSummary)のリポジトリにissueとして登録したものが，このサイトに自動で反映されます（ので実は誰でも投稿できます）．
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+管理人については[こちら](https://yoshum.net)．
 
-
-[jekyll-organization]: https://github.com/jekyll
