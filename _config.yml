@@ -13,23 +13,29 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: 論文まとめ by yoshum
-email: yoshum@users.noreply.github.com
+title: 論文まとめ
+tagline: 機械学習，コンピュータビジョン，時々物理
 description: >- # this means to ignore newlines until "baseurl:"
-  機械学習，コンピュータービジョン，時々物理の論文まとめ．
-baseurl: "/PaperSummary" # the subpath of your site, e.g. /blog
-url: "https://yoshum.github.io"
+  機械学習，コンピュータビジョン，時々物理の論文まとめ．
+
+email: yoshum@users.noreply.github.com
 # twitter_username: jekyllrb
 github_username:  yoshum
 
+baseurl: "/PaperSummary" # the subpath of your site, e.g. /blog
+url: "https://yoshum.github.io"
+paginate: 50
+
 # Build settings
 markdown: GFM
-theme: minima
+remote_theme: yoshum/lanyon@devel
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
 
 timezone: Asia/Tokyo
 lang: ja
+github: [metadate]
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
