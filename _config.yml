@@ -24,11 +24,12 @@ github_username:  yoshum
 
 # Build settings
 markdown: GFM
-theme: jekyll-theme-minimal
+theme: minima
 plugins:
   - jekyll-feed
 
 timezone: Asia/Tokyo
+lang: ja
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
