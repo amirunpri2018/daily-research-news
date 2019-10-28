@@ -28,7 +28,7 @@ paginate: 50
 
 # Build settings
 markdown: GFM
-remote_theme: yoshum/lanyon@devel
+remote_theme: yoshum/lanyon@paper-summary
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
