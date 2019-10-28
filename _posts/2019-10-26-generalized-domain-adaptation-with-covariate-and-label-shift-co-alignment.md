@@ -3,8 +3,6 @@ title: "Generalized Domain Adaptation with Covariate and Label Shift CO-ALignmen
 tags: ["arxiv","domain adaptation"]
 ---
 
-# Generalized Domain Adaptation with Covariate and Label Shift CO-ALignment
-
 Covariate shiftとlabel shiftの両方に対応したドメイン適応の手法を提案．
 
 ## 基本情報

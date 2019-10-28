@@ -3,7 +3,6 @@ title: "Connections between Support Vector Machines, Wasserstein distance and gr
 tags: ["GAN","arxiv"]
 ---
 
-# Connections between Support Vector Machines, Wasserstein distance and gradient-penalty GANs
 
 GANの主要な手法をマージン最大化として定式化できることを示した．双対理論を利用して，gradient penaltyを含めて同じ枠組みで議論できる．また，勾配の$L^\infty$ノルムを制約する新しい手法を提案している．
 

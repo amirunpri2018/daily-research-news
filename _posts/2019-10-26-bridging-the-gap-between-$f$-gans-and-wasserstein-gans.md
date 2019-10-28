@@ -3,7 +3,6 @@ title: Bridging the Gap Between $f$-GANs and Wasserstein GANs
 tags: ["GAN","arxiv"]
 ---
 
-# Bridging the Gap Between $f$-GANs and Wasserstein GANs
 
 f-GANはdiscriminatorの値を密度比と見なして下流タスクに応用できるが，性能でWGANに及ばない．WGANの性能は良いが，criticの値を密度比と見なせない．そこで，f-GANとWGANの両方の一般かと見なせる目的関数を導出，KL-WGANを提案．
 

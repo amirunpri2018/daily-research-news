@@ -3,8 +3,6 @@ title: "Learning GANs and Ensembles Using Discrepancy"
 tags: ["GAN"]
 ---
 
-# Learning GANs and Ensembles Using Discrepancy
-
 GANの学習で生成分布と実データ分布を合わせる際に，生成したデータを利用する下流タスクに有用なデータを生成できるように分布間の距離尺度を選択すべきであると主張，discrepancyがその目的に適うことを指摘し，それを利用したアルゴリズムとその理論解析を行った．
 
 ## 基本情報

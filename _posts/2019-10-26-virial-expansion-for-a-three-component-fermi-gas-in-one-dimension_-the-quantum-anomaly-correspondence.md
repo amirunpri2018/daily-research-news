@@ -3,8 +3,6 @@ title: "Virial Expansion for a Three-Component Fermi Gas in One Dimension: The Q
 tags: ["arxiv","few-body","physics"]
 ---
 
-# Virial Expansion for a Three-Component Fermi Gas in One Dimension: The Quantum Anomaly Correspondence
-
 3体コンタクト相互作用を持つ1次元3成分Fermi気体と，2体コンタクト相互作用を持つ2次元2成分Fermi気体の間で，熱力学量や輸送係数が定数倍で結びつくことを高温展開の最低次で示した．
 
 ## 基本情報

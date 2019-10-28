@@ -5,8 +5,6 @@ tags: ["GAN","WACV","domain adaptation","object detection"]
 date: 2019-10-27 17:58:02 +0000
 ---
 
-# Progressive Domain Adaptation for Object Detection
-
 物体検知に対するドメイン適応の新手法．大きなドメインギャップを埋めるため，中間的なドメインの画像をCycleGANで合成し，元ドメインから中間ドメイン，中間ドメインからターゲット・ドメインという2段階のドメイン適応を行う．
 
 ## 基本情報
