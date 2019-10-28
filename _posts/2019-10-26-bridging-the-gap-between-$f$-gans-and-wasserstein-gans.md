@@ -1,6 +1,7 @@
 ---
 title: Bridging the Gap Between $f$-GANs and Wasserstein GANs
 tags: ["GAN","arxiv"]
+layout: post
 ---
 
 

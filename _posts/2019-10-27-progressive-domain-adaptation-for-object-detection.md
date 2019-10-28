@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "Progressive Domain Adaptation for Object Detection"
 tags: ["GAN","WACV","domain adaptation","object detection"]
 date: 2019-10-27 17:58:02 +0000

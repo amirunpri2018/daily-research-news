@@ -1,6 +1,7 @@
 ---
 title: "Connections between Support Vector Machines, Wasserstein distance and gradient-penalty GANs"
 tags: ["GAN","arxiv"]
+layout: post
 ---
 
 

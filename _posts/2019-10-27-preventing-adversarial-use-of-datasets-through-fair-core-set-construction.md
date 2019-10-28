@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "Preventing Adversarial Use of Datasets through Fair Core-Set Construction"
 tags: ["NeurISP WS"]
 date: 2019-10-27 18:37:02 +0000
