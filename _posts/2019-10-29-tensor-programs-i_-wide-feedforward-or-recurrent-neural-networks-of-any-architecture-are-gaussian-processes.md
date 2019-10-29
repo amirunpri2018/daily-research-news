@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Tensor Programs I: Wide Feedforward or Recurrent Neural Networks of Any Architecture are Gaussian Processes"
-tags: ["DL theory","DNN as GP","arxiv"]
-date: 2019-10-29 23:11:22 +0900
+tags: ["DL theory","DNN as GP","NeurIPS"]
+date: 2019-10-29 23:26:08 +0900
 ---
 
 DNNがGPであるという議論は，従来個別のネットワーク構造に対して成されてきた．これに対して本論文では，NETSORと呼ばれる計算表現の手法を導入，NETSORで表現できる計算に対してGPへの収束を示した．NETSORは一般に使われているほとんどの構造を表現できるため，従来の結果を包括するかなり一般的な結論であると言える．
