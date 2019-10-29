@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "On approximating $\nabla f$ with neural networks"
+title: "On approximating $\\nabla f$ with neural networks"
 tags: ["arxiv","expressibility"]
 date: 2019-10-30 00:23:28 +0900
 ---
