@@ -13,13 +13,13 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: 論文まとめ
+title: 論文まとめ速報版
 tagline: 機械学習，コンピュータビジョン，時々物理
 description: >- # this means to ignore newlines until "baseurl:"
-  機械学習，コンピュータビジョン，時々物理の論文まとめ
+  機械学習，コンピュータビジョン，時々物理の論文まとめ速報版．
 
 email: yoshum@users.noreply.github.com
-# twitter_username: jekyllrb
+twitter_username: yoshum_net
 github_username:  yoshum
 
 baseurl: "/PaperSummary" # the subpath of your site, e.g. /blog
