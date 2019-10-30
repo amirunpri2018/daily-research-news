@@ -41,7 +41,7 @@
   <meta property="og:description" content="{{ site.description | strip_html | strip_newlines | strip }}" />
   {% else %}
   <meta property="og:type" content="article" />
-  <meta property="og:description" content="{{ page.excerpt }}" />
+  <meta property="og:description" content="{{ page.excerpt | strip_html | strip_newlines | strip }}" />
   {% endif %}
   <meta name="twitter:card" content="summary" />
   <meta name="twitter:site" content="@{{ site.twitter_username }}" />
