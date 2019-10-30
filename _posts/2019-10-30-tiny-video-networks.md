@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Tiny Video Networks"
-tags: ["arxiv","video recognition"]
-date: 2019-10-30 18:08:39 +0900
+tags: ["NAS","arxiv","video recognition"]
+date: 2019-10-30 18:08:55 +0900
 ---
 
 動画認識の軽量なネットワーク構造を，計算時間とパラメータ数に制約を課した遺伝的アルゴリズムで探索．SOTAに匹敵する精度を保ちつつ，1秒の動画を37ms (CPU) / 10ms (GPU)で認識できるTiny Video Networksを発見．
