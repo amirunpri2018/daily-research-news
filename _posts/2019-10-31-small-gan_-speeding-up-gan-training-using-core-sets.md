@@ -2,7 +2,7 @@
 layout: post
 title: "Small-GAN: Speeding Up GAN Training Using Core-sets"
 tags: ["GAN","active learning","arxiv"]
-date: 2019-10-31 17:02:17 +0900
+date: 2019-10-31 17:02:31 +0900
 ---
 
 GANの学習においてバッチサイズを大きくするとFIDが大きく改善することが知られているが（BigGAN），多くの人にとって学習環境の制約から現実的ではない．この論文では，大きなバッチから上手くコア集合を選択することで，実効的に大バッチ学習を小バッチで実現する方法を提案．既存手法に適用してFIDが改善することを実験的に確認．
