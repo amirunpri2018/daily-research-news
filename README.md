@@ -1,7 +1,7 @@
-# PaperSummary
+# Daily Research News
 
 最新論文のまとめを共有するためのリポジトリです．
-投稿済みのまとめは[こちら](https://yoshum.github.io/PaperSummary)で公開しています．
+投稿済みのまとめは[こちら](https://yoshum.github.io/daily-research-news)で公開しています．
 
 ## 論文追加方法
 
