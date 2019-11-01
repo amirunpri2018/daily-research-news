@@ -22,7 +22,7 @@ email: yoshum@users.noreply.github.com
 twitter_username: yoshum_net
 github_username:  yoshum
 
-baseurl: "/PaperSummary" # the subpath of your site, e.g. /blog
+baseurl: "/daily-research-news" # the subpath of your site, e.g. /blog
 url: "https://yoshum.github.io"
 paginate: 50
 
