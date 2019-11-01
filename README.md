@@ -9,7 +9,7 @@
 - テンプレートは[こちら](.github/ISSUE_TEMPLATE/article-summary.md)
 - 閲覧中のWebページから空のsummaryを生成するBookmarklet（デフォルトで`TBR`タグ付き）
 ```
-javascript:(function(){var a=window.prompt("Create an empty summary for this article?",document.title);a&&window.open("https://github.com/yoshum/PaperSummary/issues/new?assignees=&labels=TBR&template=article-summary.md&title="+encodeURIComponent(a.trim()))})();
+javascript:(function(){var a=window.prompt("Create an empty summary for this article?",document.title);a&&window.open("https://github.com/yoshum/daily-research-news/issues/new?assignees=&labels=TBR&template=article-summary.md&title="+encodeURIComponent(a.trim()))})();
 ```
 
 ## 参考リンク
