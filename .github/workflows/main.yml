@@ -9,25 +9,9 @@ jobs:
     steps:
       - name: checkout
         uses: actions/checkout@v1
+        with:
+          ref: gh-pages
       - uses: actions/setup-node@v1
-      - env:
-          ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
-          BRANCH: gh-pages
-        run: |
-          REPOSITORY_PATH="https://${ACCESS_TOKEN:-"x-access-token:$GITHUB_TOKEN"}@github.com/${GITHUB_REPOSITORY}.git"
-          if [ "$(git ls-remote --heads "$REPOSITORY_PATH" "$BRANCH" | wc -l)" -eq 0 ];
-          then
-            echo "Creating remote branch ${BRANCH} as it doesn't exist..."
-            git checkout "${BASE_BRANCH:-master}" && \
-            git checkout --orphan $BRANCH && \
-            git rm -rf . && \
-            touch README.md && \
-            git add README.md && \
-            git commit -m "Initial ${BRANCH} commit" && \
-            git push $REPOSITORY_PATH $BRANCH
-          fi
-          git checkout $BRANCH
-          mkdir -p _posts
       - name: create a jekyll post from an issue
         uses: yoshum/issue-to-jekyll-post@v0
         with:
