@@ -2,10 +2,10 @@
 layout: post
 title: "Self-training with Noisy Student improves ImageNet classification"
 tags: ["arxiv","semi-supervised"]
-date: 2019-11-18 17:10:39 +0900
+date: 2019-11-18 23:21:11 +0900
 ---
 
-正解付き画像で教師あり学習した教師モデルで正解「なし」画像に擬似ラベルを付与し，正解付き画像と擬似ラベル付き画像で生徒モデルを学習する，というself-trainingにおいて，生徒モデルにノイズを乗せるNoisy Studentを提案．精度とロバスト性の両方を大幅に向上させた．
+正解付き画像で教師あり学習し教師モデルを作成，次に教師モデルで正解なし画像に擬似ラベルを付与，そして正解付き画像と擬似ラベル付き画像で生徒モデルを学習，というself-trainingの手法に関する論文．生徒モデルの学習時にノイズ（data augmentation, dropout, stochastic depth）を乗せると，精度とロバスト性の両方を大幅に向上することを発見した．
 
 ## 基本情報
 ### 会議・論文誌
