@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Proof of the absence of long-range temporal orders in Gibbs states"
-tags: ["physics"]
-date: 2019-12-03 22:04:46 +0900
+tags: ["arxiv","physics"]
+date: 2019-12-03 22:05:39 +0900
 ---
 
 Gibbs状態で記述される熱平衡状態で時間並進対称性の自発的破れ（time crystal）は実現しえないことを証明．以前に出版されたレターの完全版．
