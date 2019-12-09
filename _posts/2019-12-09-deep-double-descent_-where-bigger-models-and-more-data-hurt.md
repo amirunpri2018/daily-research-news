@@ -2,10 +2,10 @@
 layout: post
 title: "Deep Double Descent: Where Bigger Models and More Data Hurt"
 tags: ["double descent","learning theory"]
-date: 2019-12-09 11:57:21 +0900
+date: 2019-12-09 18:27:04 +0900
 ---
 
-統計的学習理論の教えるところによると，モデルサイズを大きくしすぎると過適合し汎化誤差が増大する．しかし近年，ある閾値を超えるとモデルサイズの増大とともに汎化誤差が減少する現象（double descent）が報告されている．この論文では，深層学習モデルにおけるdouble descent現象を報告．モデルサイズだけでなく学習エポック数についてもdouble descentが見られることを報告．また，Effective Model Complexityを導入し，その原因について考察．
+統計的学習理論の教えるところによると，モデルサイズを大きくしすぎると過適合し汎化誤差が増大する．しかし近年，ある閾値を超えるとモデルサイズの増大とともに汎化誤差が減少する現象（double descent）が報告されている．この論文では，深層学習モデルにおけるdouble descent現象を報告．モデルサイズだけでなく学習エポック数についてもdouble descentが見られることを報告．また，学習アルゴリズムとデータの分布で決まるEffective Model Complexity（≒記憶できるサンプル数）を導入し，double descentの振る舞いを決めているのはEMCであるという仮説を提唱．
 
 ## 基本情報
 ### 会議・論文誌
